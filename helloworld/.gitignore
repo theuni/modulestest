@@ -1,0 +1,13 @@
+helloworld
+
+.deps
+.DS_Store
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.pcm
+*.pyc
+*.o
+*.log
